@@ -27,7 +27,7 @@ run
 	x. (b instanceof B) 
 	x. (b instanceof B) && (! (b instanceof C))
 
-12. CODE
+12. TriangleIdentifier
 
 13. It is a design pattern which implements Inversion of Control for
 software applications
